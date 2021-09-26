@@ -6,5 +6,6 @@ I'm using Next.js for the frontend and FastAPI for the functional service.
 📱 Frontend Repository: https://github.com/kaenova/serverless-arch-frontend   
 ⚙ Functional Service Repository: https://github.com/kaenova/serverless-arch-function  
   
+🔵 now with ReCAPTCHA ^^ 
   
 <b>KMA</b>
